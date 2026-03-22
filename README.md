@@ -51,14 +51,7 @@ Returns a JSON array of dataset objects.
 
 ## Example Response
 
-[
-  {
-    "title": "Cystic Fibrosis Patient Microbiology Cultures",
-    "description": "The UK CF Registry is a centralised database of all 60 CF centres across the UK...",
-    "accessServiceCategory": "Varies based on project",
-    "accessRights": "https://www.cysticfibrosis.org.uk/the-work-we-do/uk-cf-registry/apply-for-data-from-the-uk-cf-registry"
-  }
-]
+![Example response](images/example.png)
 
 ## Notes
 
