@@ -1,0 +1,15 @@
+AI Usage Statement
+
+For light tasks such as this, I used ChatGPT. However, for more complex tasks, I tend to use Claude when needed.
+
+In this task, I used AI to help me understand the initial brief and what the task was asking for.
+
+I also used AI to help me understand the structure of the JSON file and identify where the required fields were located.
+
+In addition, I used AI to help check whether my implementation met the brief.
+
+I used AI to explain how jsonify works.
+
+I also used AI to help write the README file and this AI usage statement file.
+
+More generally, I use AI to speed up workflows and support understanding, drafting, and problem-solving. At the same time, care must be taken not to expose sensitive data when using AI tools.
