@@ -10,6 +10,7 @@ def load_datasets():
     with open("all_datasets.json", "r", encoding="utf-8") as f:
         raw = json.load(f)
 
+    #list to store cleaned data
     cleaned = []
 
     for item in raw:
